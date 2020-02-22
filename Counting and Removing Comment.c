@@ -14,7 +14,7 @@ int main() {
     int flag2=0; //detecting the completion of first pair of '//' or '/*' 
     int flag3=0; 
 
-    // Definition with example: "//{this is the starting pair of a comment} some demo text here //{this is the ending pair of a comment}" 
+    // Definition with example: "//{this is the starting pair of a comment} ........... some demo text here.......... //{this is the ending pair of a comment}" 
     //......................... the first '/' of starting pair is detected by {flag} .............................................................
     //.......................... '//' or '/*' starting pair is detected by {flag2} ............................................................
     //.......................... the first '

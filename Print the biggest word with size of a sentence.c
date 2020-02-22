@@ -79,7 +79,7 @@ int main()
                 }
                 else
                 {
-                    //new word is bigger
+                    //new word is not bigger
                     //need to drop the letters from tmp_st[] array
                     while(m--)
                     {
